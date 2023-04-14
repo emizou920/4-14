@@ -1,0 +1,17 @@
+Class object1 = new Class(2);
+Class object2 = new Class(object1);
+
+constants value
+public static fianl datatype CONST_NAME = value;
+almost always static and final
+The reason make constants static because does not want it change
+but why set it public?
+
+pass by reference send a location of the variable  eg: sharing a google docs link (we both can change the docs)
+
+pass by value eg: attaching a doc in an email / sending hw on canvas (as long as you sent the file, any change in my file the other person don't know)
+
+Think of primitive as pass by value
+Think of objects as pass by reference(maybe not true but works)
+
+
